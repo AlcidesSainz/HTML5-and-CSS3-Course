@@ -1,0 +1,21 @@
+/*background-color Para asignar un color al fondo de la pantalla de la pagina */
+body{
+    background-color: black;
+}
+/*color Para asignarle un color de letra al texto*/
+p{
+    color: white;
+}
+/*Cuando se llama un tipo Id se utiliza el # al inicio del nomnbre del tag*/
+#first-paragraph{
+    color:  red;
+}
+#second-paragraph{
+    color: cyan;
+}
+.third-paragraph{
+    color: chartreuse;
+}
+.big{
+    font-size: 30px;
+}
